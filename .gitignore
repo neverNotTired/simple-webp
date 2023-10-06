@@ -1,0 +1,3 @@
+# Ignore everything in these directories
+node_modules/
+images/

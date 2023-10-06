@@ -1,0 +1,27 @@
+{
+  "name": "simple-webp",
+  "version": "1.0.0",
+  "description": "Covert images to webp",
+  "main": "index.js",
+  "bin": {
+    "simplewebp": "./bin/index.mjs"
+  },
+  "type": "module",
+  "dependencies": {
+    "imagemin": "^8.0.1",
+    "imagemin-webp": "^8.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neverNotTired/simple-webp.git"
+  },
+  "author": "neverNotTired",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neverNotTired/simple-webp/issues"
+  },
+  "homepage": "https://github.com/neverNotTired/simple-webp#readme"
+}
